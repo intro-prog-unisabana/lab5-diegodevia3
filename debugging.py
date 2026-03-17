@@ -29,7 +29,7 @@ highest = max_steps(steps_list)
 lowest = min_steps(steps_list)
 goals = goal_met(steps_list)
 
-print("Total stpes:", total)
+print("Total steps:", total)
 print("Average daily steps:", average)
 print("Highest steps in a day:", highest)
 print("Lowest steps in a day:", lowest)
